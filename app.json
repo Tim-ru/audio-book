@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn-todo-app",
-    "slug": "rn-todo-app",
+    "name": "audio-book-app",
+    "slug": "audio-book-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
